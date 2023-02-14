@@ -1,0 +1,3 @@
+def str_upper():
+    user_input = input()
+    print(user_input.upper())
